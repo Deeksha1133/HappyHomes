@@ -1,0 +1,87 @@
+.ftext h5{
+    color: #44615A;
+    display: grid;
+    place-items: center;
+    font-family: Poppins;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin: 12vh 0vh 9vh 0vh;
+}
+.f-container{
+    min-height: 60vh;
+}
+.image-list img{
+    height: 500px;
+   position: relative;
+   left: 20vh;
+
+}
+
+
+.l1 h6{
+    width: 230px;
+  margin-left: 45px;
+margin-right: 45px;
+justify-content: center;
+align-items: center;
+margin-top: 25px;
+position: relative;
+left: 12vh;
+margin-left: 50px;
+}
+.l1 img{
+    width: 200px;
+    height: 200px;
+
+margin-right: 40px;
+
+}
+
+.l2 h6{
+    width: 250px;
+    position: relative;
+    left: 10vh;
+    margin-left: 40px;
+margin-right: 40px;
+text-align: center;
+margin-top: 25px;
+margin-left: 50px;
+}
+.l2 img{
+    width: 200px;
+    height: 200px;
+margin-right: 40px;
+}
+
+.l3 h6{
+    width: 250px;
+    position: relative;
+    left: 10vh;
+    margin-left: 40px;
+margin-right: 40px;
+text-align: center;
+margin-top: 25px;
+margin-left: 50px;
+}
+.l3 img{
+    width: 200px;
+    height: 200px;
+margin-right: 40px;
+}
+.l4 h6{
+    width: 250px;
+    position: relative;
+    left: 10vh;
+    margin-left: 40px;
+margin-right: 40px;
+text-align: center;
+margin-top: 25px;
+margin-left: 50px;
+}
+.l4 img{
+    width: 200px;
+    height: 200px;
+margin-right: 40px;
+}

@@ -1,0 +1,53 @@
+.dtext h5{
+    color: #44615A;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  
+  
+}
+.D{
+
+  min-height: 35vh;
+  display: grid;
+  place-items: center;
+}
+.slider{
+  margin: auto;
+  position: relative;
+  width: 97%;
+  display: grid;
+  place-items: center;
+  margin-top: 5px;
+  overflow-x: auto;
+}
+.slide-track{
+  display: flex;
+  animation: scroll 40s linear infinite;
+}
+
+@keyframes scroll {
+  0%{
+    transform: translateX(0);
+  }
+  100%{
+    transform: translateX(calc(-450px * 9));
+  }
+}
+.slide{
+
+  width: 450px;
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  perspective: 100px;
+}
+.slide img {
+  width: 450px;
+  transition: transform 2%;
+}
+
+

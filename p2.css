@@ -1,0 +1,102 @@
+
+.text h5{
+    color: #ffffff;
+text-align: center; 
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 1px;
+text-transform: capitalize;
+position: absolute;
+top: 705px;
+left: 550px;
+}
+.ctext h4{
+  color: #44615A;
+text-align: center;
+font-family: Poppins;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 50px;
+}
+.c-container{
+  margin-left: 70px;
+    margin-top: 80px;
+    display: flex;
+}
+.c-container svg{ 
+  align-items: center;
+
+    margin-right: 100px;
+    margin-left: 100px;
+
+}
+.c-container h4{ 
+
+    margin-right: 100px;
+    margin-left: 100px;
+
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+      .cc svg {
+        position: relative;
+        width: 120px;
+        height: 120px;
+      }
+      .cd svg {
+          position: relative;
+          width: 120px;
+          height: 120px;
+        }
+
+        .ca h4 {
+            position: relative;
+            width: 175px;
+            height: 120px ;
+            margin-left: 65px;
+       
+          }
+          
+      
+          .cb h4   {
+              position: relative;
+              width: 150px;
+              height: 120px;
+              margin-left: 80px;
+              margin-top: 22px;
+            }
+            
+            .cc h4 {
+              position: relative;
+              width: 175px;
+              height: 120px;
+              margin-left: 75px;
+            }
+            
+
+            .cd h4 {
+                position: relative;
+                width: 130px;
+                height: 120px;
+                margin-left: 110px;
+              }
+               
+          
+            
+      
+  
+
+
+
+
+ 
+     

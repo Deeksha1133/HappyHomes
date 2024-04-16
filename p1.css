@@ -1,0 +1,122 @@
+
+.container{
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  overflow: auto;
+  
+}
+.nav{
+  background-color: white;
+  height: 100px;
+}
+nav ul {
+  list-style-type: none;
+  display: flex;
+  position: absolute;
+  left: 75px;
+  }
+.navbar-brand{
+  margin-top: -30px;
+ position: absolute;
+ left: 50px;
+}
+  
+.nav-link  {
+  position: relative;
+  left: 600px;
+ display: block;
+color: #44615A;
+font-family: 'Poppins';
+font-size: 22px;
+font-style: normal;
+font-weight: 200;
+line-height: normal;
+letter-spacing: 0.6px;
+margin-top: 10px;
+  }
+
+  .nav-item a.active {
+  position: relative;
+  top: 20px;
+    position: relative;
+    left: 600px;
+    font-weight: 600;
+    text-decoration-line: none;
+    color: #44615A;
+    font-family: 'Poppins';
+font-size: 22px;
+font-style: normal;
+line-height: normal;
+letter-spacing: 0.6px;
+
+  }
+
+  
+  nav ul li a:hover {
+font-weight: 500;
+    text-decoration-line: none;
+    color: #44615A;
+    font-family: 'Poppins';
+font-size: 24px;
+font-style: normal;
+line-height: normal;
+letter-spacing: 0.6px;
+  }
+
+  .container-fluid li{
+    margin-left: 100px;
+    margin-left: 100px;
+  }
+  .ba img{
+    width: 1440px; height: 750px;
+    filter: blur(5px);
+    opacity: 0.9;
+    border-style: solid;
+
+    margin-top: 50px;
+    margin-left: 50px;
+
+  }
+  .bb img{
+    width: 450px; height: 500px; opacity: 0.99;
+     box-shadow: 10px 0px 20px 5px rgba(0, 0, 0, 0.25);
+      border-top-left-radius: 350px; border-top-right-radius: 350px;
+       border-bottom-right-radius: 10px;
+        border-bottom-left-radius: 10px;
+        margin-left: -950px;
+        margin-top: 220px;
+  }
+  .button {
+    display: block;
+    padding: 10px 20px;
+    background-color: #44615A;
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif; /* Apply the desired font */
+    font-size: 24px;
+    font-weight: 500;
+    cursor: pointer;
+    display: flex;
+width: 250px;
+height: 76px;
+padding: 10px;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+border-radius: 0px 50px 50px 50px;
+margin-left: 630px;
+position: absolute;
+top: 620px;
+
+  }
+  
+  .button:hover {
+    text-decoration-line: none;
+    color: #ffffff;
+    font-family: 'Poppins';
+font-size: 26px;
+font-style: normal;
+line-height: normal;
+letter-spacing: 0.6px;
+  }
